@@ -1,5 +1,9 @@
+# APP
 db.json
 
 # NODE
 package-lock.json
 node_modules
+
+# OSX
+.DS_Store
