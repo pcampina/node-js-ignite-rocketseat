@@ -6,3 +6,6 @@ build
 
 # Dotfiles
 .env
+
+# Tests
+coverage
