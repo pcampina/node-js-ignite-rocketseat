@@ -13,13 +13,13 @@ GymPass app style.
 - [ ] Users should be able to search for gyms by name.
 - [x] Users should be able to check-in at a gym.
 - [ ] Check-ins should be able to be validated.
-- [ ] Admins should be able to register new gyms.
+- [x] Admins should be able to register new gyms.
 
 # BR (Business Rules)
 
 - [x] Duplicate email addresses should not be allowed during registration.
 - [x] Users should not be able to check-in more than once a day.
-- [ ] Users should not be able to check-in if they are more than 100 meters away from the gym.
+- [x] Users should not be able to check-in if they are more than 100 meters away from the gym.
 - [ ] Check-ins should only be validated within 20 minutes of the check-in time.
 - [ ] Only admins should be able to validate check-ins.
 - [ ] Only admins should be able to register new gyms.
