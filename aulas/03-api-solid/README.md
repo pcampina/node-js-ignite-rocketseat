@@ -6,11 +6,11 @@ GymPass app style.
 
 - [x] Users should be able to register.
 - [x] Users should be able to authenticate.
-- [ ] Users should be able to view their profile.
-- [ ] Users should be able to view their total number of check-ins.
+- [x] Users should be able to view their profile.
+- [x] Users should be able to view their total number of check-ins.
 - [x] Users should be able to view their check-in history.
 - [ ] Users should be able to find the nearest gyms.
-- [ ] Users should be able to search for gyms by name.
+- [x] Users should be able to search for gyms by name.
 - [x] Users should be able to check-in at a gym.
 - [ ] Check-ins should be able to be validated.
 - [x] Admins should be able to register new gyms.
