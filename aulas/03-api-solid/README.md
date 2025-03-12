@@ -12,7 +12,7 @@ GymPass app style.
 - [x] Users should be able to find the nearest gyms.
 - [x] Users should be able to search for gyms by name.
 - [x] Users should be able to check-in at a gym.
-- [ ] Check-ins should be able to be validated.
+- [x] Check-ins should be able to be validated.
 - [x] Admins should be able to register new gyms.
 
 # BR (Business Rules)
